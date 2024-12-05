@@ -1,2 +1,2 @@
 # bash-blaze-challenges-rajesh
-bash scripting challenges for Rajesh
+bash scripting challenges for Rajesh.
