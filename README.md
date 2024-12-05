@@ -1,2 +1,2 @@
 # bash-blaze-challenges-rajesh
-bash scripting challenges for Rajesh.
+7 day bash scripting challenges for Rajesh.
